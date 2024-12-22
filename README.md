@@ -5,19 +5,19 @@ The Hospital Management System is a C-based application that manages patient and
 Here is the README.md for the Hospital Management System project without the # symbols:
 
 
-Features
+# Features
 	•	Admit patients with their details (name, address, disease, admission date).
 	•	View the list of admitted patients.
 	•	Discharge patients based on their ID.
 	•	Add doctor details (name, address, specialization, joining date).
 	•	View the list of doctors.
 
-How It Works
+# How It Works
 	1.	The program presents a menu with options to perform various actions like admitting a patient, viewing patient lists, discharging patients, adding a doctor, and viewing doctor lists.
 	2.	The patient information is stored in a file (patient.txt), and doctor details are stored in another file (doctor.txt).
 	3.	The user interacts with the system through simple menu-driven commands.
 
-Example Workflow
+# Example Workflow
 	1.	Admit Patient:
 	•	The user enters patient details such as ID, name, address, disease, and admission date.
 	•	The details are saved in the patient.txt file.
@@ -31,15 +31,5 @@ Example Workflow
 	5.	View Doctor List:
 	•	The program retrieves and displays the details of all added doctors from the doctor.txt file.
 
-Example Input:
-
-Enter Patient ID: 101
-Enter Patient Name: John Doe
-Enter Patient Address: 123 Main Street
-Enter Patient Disease: Fever
-
-Example Output:
-
-Patient Added Successfully
 
 This README.md will provide a clear and concise description of the project, its features, and usage. Feel free to use it in your repository!
